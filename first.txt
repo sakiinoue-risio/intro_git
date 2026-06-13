@@ -6,3 +6,4 @@ Git git
 ・git commit
 ・git push
 ・git rm
+・git status
