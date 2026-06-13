@@ -7,3 +7,4 @@ Git git
 ・git push
 ・git rm
 ・git status
+・git diff
